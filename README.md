@@ -47,4 +47,4 @@
 
 **注意：要在[self.webView loadRequest:req];之前设置获取cookies！**
 到现在为止你的应用肯定就已经实现了你想要的功能！
-吃水不忘挖井人：（其中连接上面实现的稍微有些问题，我在我这里已经进行了修改）[功能实现参考链接](http://blog.csdn.net/gx_wqm/article/details/47086181)
+[简书地址](http://www.jianshu.com/p/9bf9a82183bb)
